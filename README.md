@@ -1,9 +1,8 @@
 # diabetes_controllers
 This is a simple project where we are going to implement a few controllers to control the blood glucose level in a diabetic patient, given a mathematical model of the glucose-insulin system. The mathematical model is given by the following differential equations:
 
-- <img src="https://latex.codecogs.com/gif.latex?\begin{equation}    \begin{cases} \dot x_1 = -(p_1+x_2)x_1 +p_1g_e \\ \dot x_2 = -(p_2x_2)+p_3(u-i_e) \\ y = x_1 \end{cases}\, \end{equation}" /> 
-- <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
-
+![Alt text](./glucose-insulin-dynamics.svg)
+<img src="./glucose-insulin-dynamics.svg">
 
 
 Let p1 = 0.0151min-1
