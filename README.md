@@ -1,6 +1,6 @@
 # Control system for blood glucose level in a diabetic patient
 ## Introduction
-This is a simple project where we are going to implement a few controllers to control the blood glucose level in a diabetic patient, given a mathematical model of the glucose-insulin system. 
+This is a project where I am going to implement a few controllers to control the blood glucose level in a diabetic patient, given a mathematical model of the glucose-insulin system. 
 
 The project involves the implementation of different controllers and the comparison of their performance. In particular, the controllers are designed with the following techniques:
 - Linear control with and without state observer. 
